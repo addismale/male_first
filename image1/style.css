@@ -1,0 +1,33 @@
+.image{
+  width: 400px;
+  height: 25px;
+  margin: auto;
+}
+.span1{
+ color: #00AAFA;
+ margin: 0px 0px 0px 50px;
+}
+.span2{
+ color: #D9D9DD;
+ margin: 0px 0px 0px 100px;
+}
+
+.span3{
+ color: #D9D9DD;
+ margin: 0px 0px 0px 100px;
+}
+.span4{
+  margin: 0 0 0 50px;
+}
+.span5{
+  margin: 0 0 0 50px;
+}
+
+.span6{
+  margin: 0 0 0 50px;
+}
+
+h2{
+  margin: 0 0 0 140px;
+  color: #ABABAB;
+}
