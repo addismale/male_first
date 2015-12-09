@@ -1,34 +1,82 @@
-.image{
-  width: 400px;
-  height: 25px;
-  margin: auto;
+.zuomian{
+  width: 55px;
+  height: 65px;
+  background-image: url(zuo.jpg);
+  background-position:10px 8px;
+  margin: 20px 10px -23px 0px;
 }
 .span1{
- color: #00AAFA;
- margin: 0px 0px 0px 50px;
+ color: #00AAEA;
+ margin: 20px 0px 0px 100px;
+ font-size: 24px;
+  padding-bottom:10px;
+  border-bottom:1px solid #000;
 }
 .span2{
- color: #D9D9DD;
+ color: #858585;
  margin: 0px 0px 0px 100px;
+ font-size: 24px;
 }
 
 .span3{
- color: #D9D9DD;
+ color: #858585;
  margin: 0px 0px 0px 100px;
+ font-size: 24px;
 }
-.span4{
-  margin: 0 0 0 50px;
-  <img src="cuo.jpg"  alt="上海鲜花港 - 郁金香" />
+input{
+    background-color: #EFF3F6;
+    margin: -47px 0 0 46px;
+    background-image: url(sousuo.jpg);
+    background-repeat: no-repeat;
+    background-position: 10px 8px;
+    padding-left: 50px;
+    font-size: 24px;
+    width: 540px;
+    height: 66px;
+    border-radius: 2px;
+    border: solid 1px #eff3f6;
 }
+.mingzi{
+  margin:20px;
+}
+.wenzi{
+  width: 640px;
+  height: 150px;
+}
+ .span4{
+  background-image: url(zhong.jpg);
+  background-repeat: no-repeat;
+  background-position: -10px 34px;
+  padding-left: 50px;
+  font-size: 24px;
+  margin: 0 0 0 60px;
+  color: #4A4A4A;
+}
+
 .span5{
-  margin: 0 0 0 50px;
+  background-image: url(zhong.jpg);
+  background-repeat: no-repeat;
+  background-position: -10px 35px;
+  padding-left: 50px;
+  font-size: 24px;
+  margin: 0 0 0 60px;
+  color: #4A4A4A;
 }
-
 .span6{
-  margin: 0 0 0 50px;
+  background-image: url(zhong.jpg);
+  background-repeat: no-repeat;
+  background-position: -10px 35px;
+  padding-left: 50px;
+  font-size: 24px;
+  margin: 0 0 0 60px;
+  color: #4A4A4A;
+}
+.span7{
+  width: 200px;
+  height: 100px;
+  font-size: 24px;
+  color:#ABABAB;
+  margin: 0 0 0 200px;
 }
 
-h2{
-  margin: 0 0 0 140px;
-  color: #ABABAB;
-}
+  padding-bottom:20px;
