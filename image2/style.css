@@ -1,0 +1,53 @@
+.shangmian{
+  width: 520px;
+  height: 80px;
+  margin: 0 0 0 0;
+  border-bottom: 1px solid #D9D9DD;
+}
+div.sousuo{
+  width: 50px;
+  height: 50px;
+  background-image: url(sousuo.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 17px;
+}
+div.shaitu{
+  width: 50px;
+  height: 50px;
+  position: relative;
+  top: -37px;
+  left: 115px;
+  font-size: 24px;
+  color: #858585;
+  line-height: 50px;
+}
+div.ceping{
+  width: 50px;
+  height: 50px;
+  position: relative;
+  top: -86px;
+  left: 240px;
+  font-size: 24px;
+  color: #858585;
+  line-height: 50px;
+}
+div.jianding{
+  width: 50px;
+  height: 50px;
+  position: relative;
+  top: -135px;
+  left: 355px;
+  font-size: 24px;
+  color: #858585;
+  line-height: 50px;
+}
+div.youxiang{
+  width: 70px;
+  height: 50px;
+  background-image: url(youxiang.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: -195px;
+  left: 455px;
+}
