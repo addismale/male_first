@@ -223,10 +223,167 @@ div.tupian10 {
   top: 10px;
   left: -130px;
 }
-.aduo{
+.duo{
   position: relative;
   top: 0px;
   left: 480px;
   color: #858585;
   text-decoration: none;
+}
+.you{
+  top: 4px;
+  left: 4px;
+  position: relative;
+}
+div.xinwen1{
+  height: 150px;
+  background-image: url(xie.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 30px;
+  left: -20px;
+  padding-left: 175px;
+  font-size: 24px;
+  color: #4A4A4A;
+  border-bottom: 1px solid #D9D9DD;
+}
+.p1{
+ font-size:24px;
+ color: #4A4A4A;
+}
+.p2{
+  font-size: 20px;
+  color: #ABABAB;
+  position: relative;
+  top: -70px;
+}
+.xing1{
+  position: relative;
+  top: -20px;
+}
+.you1{
+  position: relative;
+  top: -150px;
+  left: 500px;
+}
+div.xinwen2{
+  height: 150px;
+  background-image: url(xie.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 30px;
+  left: -20px;
+  padding-left: 175px;
+  font-size: 24px;
+  color: #4A4A4A;
+  border-bottom: 1px solid #D9D9DD;
+}
+.p3{
+ font-size:24px;
+ color: #4A4A4A;
+}
+.p4{
+  font-size: 20px;
+  color: #ABABAB;
+  position: relative;
+  top: -70px;
+}
+.xing1{
+  position: relative;
+  top: -20px;
+}
+.you2{
+  position: relative;
+  top: -115px;
+  left: 500px;
+}
+div.xinwen3{
+  height: 150px;
+  background-image: url(xie.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 30px;
+  left: -20px;
+  padding-left: 175px;
+  font-size: 24px;
+  color: #4A4A4A;
+  border-bottom: 1px solid #D9D9DD;
+}
+.p5{
+ font-size:24px;
+ color: #4A4A4A;
+}
+.p6{
+  font-size: 20px;
+  color: #ABABAB;
+  position: relative;
+  top: -70px;
+}
+.xing1{
+  position: relative;
+  top: -20px;
+}
+.you3{
+  position: relative;
+  top: -160px;
+  left: 500px;
+}
+div.xinwen4{
+  height: 150px;
+  background-image: url(xie.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 30px;
+  left: -20px;
+  padding-left: 175px;
+  font-size: 24px;
+  color: #4A4A4A;
+  border-bottom: 1px solid #D9D9DD;
+}
+.p7{
+ font-size:24px;
+ color: #4A4A4A;
+}
+.p8{
+  font-size: 20px;
+  color: #ABABAB;
+  position: relative;
+  top: -70px;
+}
+.xing1{
+  position: relative;
+  top: -20px;
+}
+.you4{
+  position: relative;
+  top: -115px;
+  left: 500px;
+}
+.fen{
+  position: relative;
+  top: -68px;
+  left: 170px;
+  font-size: 20px;
+  color:#FFC464;
+}
+.fen1{
+  position: relative;
+  top: -68px;
+  left: 170px;
+  font-size: 20px;
+  color:#FFC464;
+}
+.fen2{
+  position: relative;
+  top: -68px;
+  left: 170px;
+  font-size: 20px;
+  color:#FFC464;
+}
+.fen3{
+  position: relative;
+  top: -68px;
+  left: 170px;
+  font-size: 20px;
+  color:#FFC464;
 }
