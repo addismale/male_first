@@ -128,53 +128,6 @@ div.xiamian{
     left: 0px;
     background-color: white;
 }
-div.xiamian1{
-    width:70px;
-    height: 70px;
-    background-image: url(zhuye.png);
-    background-repeat: no-repeat;
-    position: relative;
-    top: 20px;
-    left: 15px;
-}
-div.xiamian2{
-    width:70px;
-    height: 70px;
-    background-image: url(zixun.png);
-    background-repeat: no-repeat;
-    position: relative;
-    top: -50px;
-    left: 160px;
-}
-
-div.xiamian3{
-    width:90px;
-    height: 80px;
-    background-image: url(jiazai.png);
-    background-repeat: no-repeat;
-    position: relative;
-    top: -125px;
-    left: 290px;
-}
-
-div.xiamian4{
-    width:70px;
-    height: 70px;
-    background-image: url(xiangzi.png);
-    background-repeat: no-repeat;
-    position: relative;
-    top: -200px;
-    left: 454px;
-}
-div.xiamian5{
-    width:70px;
-    height: 70px;
-    background-image: url(geren.png);
-    background-repeat: no-repeat;
-    position: relative;
-    top: -275px;
-    left: 605px;
-}
 .bgorigin {
     position: absolute;
     display: none;
@@ -267,37 +220,61 @@ div.xiamian5{
 }
 .a10{
   position: relative;
-  top: 60px;
+  top: 0px;
   left: 5px;
   text-decoration: none;
   color: rgb(0, 159, 221);
 }
 .a11{
   position: relative;
-  top: 60px;
+  top: 0px;
   left: 5px;
   text-decoration: none;
   color: #B5BBC2;
 }
 .a12{
   position: relative;
-  top: 60px;
+  top: 10px;
   left: 5px;
   text-decoration: none;
   color: #B5BBC2;
 }
 .a14{
   position: relative;
-  top: 60px;
-  left: 14px;
+  top: 5px;
+  left: 75px;
   text-decoration: none;
   color: #B5BBC2;
 }
 .a15{
   position: relative;
-  top: 65px;
-  left: 10px;
+  top: 10px;
+  left: 100px;
   text-decoration: none;
   color: #B5BBC2;
 }
-
+.zhuye{
+  position: relative;
+  top: -25px;
+  left: -63px;
+}
+.zixun{
+  position: relative;
+  top: -25px;
+  left: -63px;
+}
+.jiazai{
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.saohuo{
+  position: relative;
+  top: -25px;
+  left: -73px;
+}
+.wode{
+  position: relative;
+  top: -25px;
+  left: -70px;
+}
