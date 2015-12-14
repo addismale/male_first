@@ -1,5 +1,5 @@
 .shangmian{
-  width: 750px;
+  width: 756px;
   height: 90px;
   margin: 0 0 0 0;
   border-bottom: 1px solid #D9D9DD;
@@ -53,8 +53,9 @@
   text-decoration: none;
 }
 .erbufen {
-    width: 750px;
+    width: 756px;
     height: 90px;
+    border-bottom: 1px solid #D9D9DD;
 }
 .a6beijing {
     width: 200px;
@@ -92,3 +93,122 @@
     padding-left: 75px;
     line-height: 50px;
 }
+div.tupian1{
+    width: 150px;
+    height: 150px;
+    background-image: url(tu1.png);
+    background-repeat: no-repeat;
+    border-bottom: 1px solid #D9D9DD;
+    border-right:1px solid #D9D9DD;
+}
+div.tupian2{
+    width: 150px;
+    height: 150px;
+    background-image: url(tu2.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -151px;
+    left: 151px;
+    border-bottom: 1px solid #D9D9DD;
+    border-right:1px solid #D9D9DD;
+}
+div.tupian3{
+    width: 150px;
+    height: 150px;
+    background-image: url(tu3.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -302px;
+    left: 303px;
+    border-bottom: 1px solid #D9D9DD;
+    border-right:1px solid #D9D9DD;
+}
+div.tupian4{
+    width: 150px;
+    height: 150px;
+    background-image: url(tu4.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -453px;
+    left: 454px;
+    border-bottom: 1px solid #D9D9DD;
+    border-right:1px solid #D9D9DD;
+}
+div.tupian5{
+    width: 150px;
+    height: 150px;
+    background-image: url(tu5.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -604px;
+    left: 605px;
+    border-bottom: 1px solid #D9D9DD;
+    border-right:1px solid #D9D9DD;
+}
+div.tupian6 {
+    width: 150px;
+    height: 150px;
+    background-image: url(tu1.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -604px;
+    left: 0px;
+    border-bottom: 1px solid #D9D9DD;
+    border-right: 1px solid #D9D9DD;
+}
+div.tupian7 {
+    width: 150px;
+    height: 150px;
+    background-image: url(tu2.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -755px;
+    left: 151px;
+    border-bottom: 1px solid #D9D9DD;
+    border-right: 1px solid #D9D9DD;
+}
+div.tupian8 {
+    width: 150px;
+    height: 150px;
+    background-image: url(tu3.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -906px;
+    left: 303px;
+    border-bottom: 1px solid #D9D9DD;
+    border-right: 1px solid #D9D9DD;
+}
+div.tupian9 {
+    width: 150px;
+    height: 150px;
+    background-image: url(tu4.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -1057px;
+    left: 454px;
+    border-bottom: 1px solid #D9D9DD;
+    border-right: 1px solid #D9D9DD;
+}
+div.tupian10 {
+    width: 150px;
+    height: 150px;
+    background-image: url(tu5.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -1208px;
+    left: 605px;
+    border-bottom: 1px solid #D9D9DD;
+    border-right: 1px solid #D9D9DD;
+}
+.gengduo{
+  position: relative;
+  top: 85px;
+  left: 36px;
+}
+.gengduo1{
+  text-decoration: none;
+  color: red;
+  border:1px solid red;
+  font-size: 20px;
+}
+
