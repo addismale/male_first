@@ -203,13 +203,13 @@ div.tupian10 {
 .gengduo{
   position: relative;
   top: 85px;
-  left: 36px;
+  left: 28px;
 }
 .gengduo1{
   text-decoration: none;
-  color: red;
-  border:1px solid red;
-  font-size: 20px;
+  color: #55575B;
+  border:1px solid #55575B;
+  font-size: 25px;
 }
 .remen{
   color:#858585;
@@ -236,6 +236,7 @@ div.tupian10 {
   position: relative;
 }
 div.xinwen1{
+  width: 550px;
   height: 150px;
   background-image: url(xie.png);
   background-repeat: no-repeat;
@@ -243,24 +244,32 @@ div.xinwen1{
   top: 30px;
   left: -20px;
   padding-left: 175px;
-  font-size: 24px;
-  color: #4A4A4A;
   border-bottom: 1px solid #D9D9DD;
 }
-.p1{
+.a11{
  font-size:24px;
  color: #4A4A4A;
+ position: relative;
+ top: -17px;
+ left: 5px;
+ text-decoration: none;
+}
+.a12{
+  font-size: 24px;
+  color: #4A4A4A;
+  position: relative;
+  top: -20px;
+  left: 5px;
+  text-decoration: none;
 }
 .p2{
   font-size: 20px;
   color: #ABABAB;
   position: relative;
-  top: -70px;
+  top: -14px;
+  width: 500px;
 }
-.xing1{
-  position: relative;
-  top: -20px;
-}
+
 .you1{
   position: relative;
   top: -150px;
@@ -271,26 +280,19 @@ div.xinwen2{
   background-image: url(xie.png);
   background-repeat: no-repeat;
   position: relative;
-  top: 30px;
+  top: 45px;
   left: -20px;
   padding-left: 175px;
   font-size: 24px;
   color: #4A4A4A;
   border-bottom: 1px solid #D9D9DD;
-}
-.p3{
- font-size:24px;
- color: #4A4A4A;
+  width: 550px;
 }
 .p4{
   font-size: 20px;
   color: #ABABAB;
   position: relative;
-  top: -70px;
-}
-.xing1{
-  position: relative;
-  top: -20px;
+  top: -7px;
 }
 .you2{
   position: relative;
@@ -298,30 +300,32 @@ div.xinwen2{
   left: 500px;
 }
 div.xinwen3{
+  width: 550px;
   height: 150px;
   background-image: url(xie.png);
   background-repeat: no-repeat;
   position: relative;
-  top: 30px;
+  top: 58px;
   left: -20px;
   padding-left: 175px;
   font-size: 24px;
   color: #4A4A4A;
   border-bottom: 1px solid #D9D9DD;
 }
-.p5{
- font-size:24px;
- color: #4A4A4A;
+.a13{
+  font-size: 24px;
+  color: #4A4A4A;
+  position: relative;
+  top: -17px;
+  left: 5px;
+  text-decoration: none;
 }
+
 .p6{
   font-size: 20px;
   color: #ABABAB;
   position: relative;
-  top: -70px;
-}
-.xing1{
-  position: relative;
-  top: -20px;
+  top: -13px;
 }
 .you3{
   position: relative;
@@ -329,31 +333,33 @@ div.xinwen3{
   left: 500px;
 }
 div.xinwen4{
+  width: 550px;
   height: 150px;
   background-image: url(xie.png);
   background-repeat: no-repeat;
   position: relative;
-  top: 30px;
+  top: 80px;
   left: -20px;
   padding-left: 175px;
   font-size: 24px;
   color: #4A4A4A;
   border-bottom: 1px solid #D9D9DD;
 }
-.p7{
- font-size:24px;
- color: #4A4A4A;
+.a14 {
+    font-size: 24px;
+    color: #4A4A4A;
+    position: relative;
+    top: -17px;
+    left: 5px;
+    text-decoration: none;
 }
 .p8{
   font-size: 20px;
   color: #ABABAB;
   position: relative;
-  top: -70px;
+  top: -14px;
 }
-.xing1{
-  position: relative;
-  top: -20px;
-}
+
 .you4{
   position: relative;
   top: -115px;
@@ -361,29 +367,69 @@ div.xinwen4{
 }
 .fen{
   position: relative;
-  top: -68px;
+  top: -19px;
   left: 170px;
   font-size: 20px;
   color:#FFC464;
 }
 .fen1{
   position: relative;
-  top: -68px;
+  top: -18px;
   left: 170px;
   font-size: 20px;
   color:#FFC464;
 }
 .fen2{
   position: relative;
-  top: -68px;
+  top: -20px;
   left: 170px;
   font-size: 20px;
   color:#FFC464;
 }
 .fen3{
   position: relative;
-  top: -68px;
+  top: -18px;
   left: 170px;
   font-size: 20px;
   color:#FFC464;
+}
+.xing1{
+  position: relative;
+  top: 30px;
+  left: -210px;
+}
+.xing2 {
+    position: relative;
+    top: 30px;
+    left: -210px;
+}
+.xing3 {
+    position: relative;
+    top: 30px;
+    left: -210px;
+}
+.xing4 {
+    position: relative;
+    top: 30px;
+    left: -210px;
+}
+.zuotu1{
+  position: relative;
+  top: -110px;
+  left: 500px;
+}
+.zuotu2{
+  position: relative;
+  top: -110px;
+  left: 500px;
+}
+.zuotu3{
+  position: relative;
+  top: -110px;
+  left: 500px;
+}
+.zuotu4{
+  position: relative;
+  top: -110px;
+  left: 500px;
 }
