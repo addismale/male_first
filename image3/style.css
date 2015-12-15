@@ -210,6 +210,10 @@ div.tupian10 {
   color: #55575B;
   border:1px solid #55575B;
   font-size: 25px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  padding-right: 0px;
 }
 .remen{
   color:#858585;
