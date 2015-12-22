@@ -65,6 +65,7 @@
     top: 20px;
     left: 172px;
     border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 .a6 {
     font-size: 26px;
@@ -84,6 +85,7 @@
     border-width: 1px;
     color: rgb(0, 159, 221);
     border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 .a7 {
     color: rgb(0, 159, 221);
@@ -99,7 +101,7 @@
 li.tupian1{
     width: 150px;
     height: 150px;
-    background-image: url(tu1.png);
+    background-image: url(tu1.jpg);
     background-repeat: no-repeat;
     border-bottom: 1px solid #D9D9DD;
     border-right:1px solid #D9D9DD;
@@ -164,7 +166,7 @@ li.tupian5{
 li.tupian6 {
     width: 150px;
     height: 150px;
-    background-image: url(tu1.png);
+    background-image: url(tu1.jpg);
     background-repeat: no-repeat;
     border-bottom: 1px solid #D9D9DD;
     border-right:1px solid #D9D9DD;
@@ -216,7 +218,7 @@ li.tupian9 {
 li.tupian10 {
     width: 150px;
     height: 150px;
-    background-image: url(tu4.png);
+    background-image: url(gengduo.jpg);
     background-repeat: no-repeat;
     border-bottom: 1px solid #D9D9DD;
     border-right:1px solid #D9D9DD;
@@ -226,44 +228,50 @@ li.tupian10 {
     left: -43px;
     top: -16px;
 }
-.gengduo{
-  position: relative;
-  top: 85px;
-  left: 28px;
+.tupiana1{
+    color: #858585;
+    left: 33px;
+    position: relative;
+    top: 74px;
+    font-size: 20px;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 1px;
 }
-.gengduo1{
-  text-decoration: none;
-  color: #55575B;
-  border:1px solid #55575B;
-  font-size: 25px;
-  padding-top: 3px;
-  padding-bottom: 3px;
-  padding-left: 3px;
-  padding-right: 0px;
+.remen {
+    height: 100px;
+    width: 756px;
+    float:left;
 }
-.remen{
-  color:#858585;
+.xinwen{
+    float:left;
+    position: relative;
+    top: -30px;
+}
+.remen1{
   font-size: 22px;
+  color: #858585;
+  text-decoration: none;
   position: relative;
-  top: -1190px;
-  left: 50px;
+  top: 15px;
+  left: 5px;
 }
-.huo{
+.remen2{
   position: relative;
-  top: 10px;
-  left: -130px;
-}
-.duo{
-  position: relative;
-  top: 0px;
-  left: 480px;
+  top: 15px;
+  left: 510px;
+  font-size: 20px;
   color: #858585;
   text-decoration: none;
 }
-.you{
-  top: 4px;
-  left: 4px;
+.youmian{
   position: relative;
+  top: 20px;
+  left: 510px;
+}
+.huo1{
+  position: relative;
+  top: 21px;
 }
 div.xinwen1{
   width: 550px;
@@ -272,7 +280,6 @@ div.xinwen1{
   background-repeat: no-repeat;
   position: relative;
   top: 30px;
-  left: -20px;
   padding-left: 175px;
   border-bottom: 1px solid #D9D9DD;
 }
@@ -311,7 +318,6 @@ div.xinwen2{
   background-repeat: no-repeat;
   position: relative;
   top: 45px;
-  left: -20px;
   padding-left: 175px;
   font-size: 24px;
   color: #4A4A4A;
@@ -336,7 +342,6 @@ div.xinwen3{
   background-repeat: no-repeat;
   position: relative;
   top: 58px;
-  left: -20px;
   padding-left: 175px;
   font-size: 24px;
   color: #4A4A4A;
@@ -369,7 +374,6 @@ div.xinwen4{
   background-repeat: no-repeat;
   position: relative;
   top: 80px;
-  left: -20px;
   padding-left: 175px;
   font-size: 24px;
   color: #4A4A4A;
