@@ -93,112 +93,138 @@
     padding-left: 75px;
     line-height: 50px;
 }
-div.tupian1{
+.pinpai{
+    width:800px;
+}
+li.tupian1{
     width: 150px;
     height: 150px;
     background-image: url(tu1.png);
     background-repeat: no-repeat;
     border-bottom: 1px solid #D9D9DD;
     border-right:1px solid #D9D9DD;
+    list-style: none;
+    float: left;
+    position: relative;
+    left: -43px;
+    top: -16px;
 }
-div.tupian2{
+li.tupian2{
     width: 150px;
     height: 150px;
     background-image: url(tu2.png);
     background-repeat: no-repeat;
-    position: relative;
-    top: -151px;
-    left: 151px;
     border-bottom: 1px solid #D9D9DD;
     border-right:1px solid #D9D9DD;
+    list-style: none;
+    float: left;
+    position: relative;
+    left: -43px;
+    top: -16px;
 }
-div.tupian3{
+li.tupian3{
     width: 150px;
     height: 150px;
     background-image: url(tu3.png);
     background-repeat: no-repeat;
-    position: relative;
-    top: -302px;
-    left: 303px;
     border-bottom: 1px solid #D9D9DD;
     border-right:1px solid #D9D9DD;
+    list-style: none;
+    float: left;
+    position: relative;
+    left: -43px;
+    top: -16px;
 }
-div.tupian4{
+li.tupian4{
     width: 150px;
     height: 150px;
     background-image: url(tu4.png);
     background-repeat: no-repeat;
-    position: relative;
-    top: -453px;
-    left: 454px;
     border-bottom: 1px solid #D9D9DD;
     border-right:1px solid #D9D9DD;
+    list-style: none;
+    float: left;
+    position: relative;
+    left: -43px;
+    top: -16px;
 }
-div.tupian5{
+li.tupian5{
     width: 150px;
     height: 150px;
     background-image: url(tu5.png);
     background-repeat: no-repeat;
-    position: relative;
-    top: -604px;
-    left: 605px;
     border-bottom: 1px solid #D9D9DD;
     border-right:1px solid #D9D9DD;
+    list-style: none;
+    float: left;
+    position: relative;
+    left: -43px;
+    top: -16px;
 }
-div.tupian6 {
+li.tupian6 {
     width: 150px;
     height: 150px;
     background-image: url(tu1.png);
     background-repeat: no-repeat;
-    position: relative;
-    top: -604px;
-    left: 0px;
     border-bottom: 1px solid #D9D9DD;
-    border-right: 1px solid #D9D9DD;
+    border-right:1px solid #D9D9DD;
+    list-style: none;
+    float: left;
+    position: relative;
+    left: -43px;
+    top: -16px;
 }
-div.tupian7 {
-    width: 150px;
+li.tupian7 {
+   width: 150px;
     height: 150px;
     background-image: url(tu2.png);
     background-repeat: no-repeat;
-    position: relative;
-    top: -755px;
-    left: 151px;
     border-bottom: 1px solid #D9D9DD;
-    border-right: 1px solid #D9D9DD;
+    border-right:1px solid #D9D9DD;
+    list-style: none;
+    float: left;
+    position: relative;
+    left: -43px;
+    top: -16px;
 }
-div.tupian8 {
+li.tupian8 {
     width: 150px;
     height: 150px;
     background-image: url(tu3.png);
     background-repeat: no-repeat;
-    position: relative;
-    top: -906px;
-    left: 303px;
     border-bottom: 1px solid #D9D9DD;
-    border-right: 1px solid #D9D9DD;
+    border-right:1px solid #D9D9DD;
+    list-style: none;
+    float: left;
+    position: relative;
+    left: -43px;
+    top: -16px;
 }
-div.tupian9 {
+li.tupian9 {
     width: 150px;
     height: 150px;
     background-image: url(tu4.png);
     background-repeat: no-repeat;
-    position: relative;
-    top: -1057px;
-    left: 454px;
     border-bottom: 1px solid #D9D9DD;
-    border-right: 1px solid #D9D9DD;
+    border-right:1px solid #D9D9DD;
+    list-style: none;
+    float: left;
+    position: relative;
+    left: -43px;
+    top: -16px;
 }
-div.tupian10 {
+li.tupian10 {
     width: 150px;
     height: 150px;
-    background-image: url(tu5.png);
+    background-image: url(tu4.png);
     background-repeat: no-repeat;
-    position: relative;
-    top: -1208px;
-    left: 605px;
     border-bottom: 1px solid #D9D9DD;
-    border-right: 1px solid #D9D9DD;
+    border-right:1px solid #D9D9DD;
+    list-style: none;
+    float: left;
+    position: relative;
+    left: -43px;
+    top: -16px;
 }
 .gengduo{
   position: relative;
@@ -270,7 +296,7 @@ div.xinwen1{
   font-size: 20px;
   color: #ABABAB;
   position: relative;
-  top: -14px;
+  top: -40px;
   width: 500px;
 }
 
@@ -296,7 +322,7 @@ div.xinwen2{
   font-size: 20px;
   color: #ABABAB;
   position: relative;
-  top: -7px;
+  top: -40px;
 }
 .you2{
   position: relative;
@@ -329,7 +355,7 @@ div.xinwen3{
   font-size: 20px;
   color: #ABABAB;
   position: relative;
-  top: -13px;
+  top: -40px;
 }
 .you3{
   position: relative;
@@ -371,29 +397,29 @@ div.xinwen4{
 }
 .fen{
   position: relative;
-  top: -19px;
-  left: 170px;
+  top: -30px;
+  left: 185px;
   font-size: 20px;
   color:#FFC464;
 }
 .fen1{
   position: relative;
-  top: -18px;
-  left: 170px;
+  top: -30px;
+  left: 185px;
   font-size: 20px;
   color:#FFC464;
 }
 .fen2{
   position: relative;
-  top: -20px;
-  left: 170px;
+  top: -30px;
+  left: 185px;
   font-size: 20px;
   color:#FFC464;
 }
 .fen3{
   position: relative;
-  top: -18px;
-  left: 170px;
+  top: -30px;
+  left: 185px;
   font-size: 20px;
   color:#FFC464;
 }
@@ -419,21 +445,25 @@ div.xinwen4{
 }
 .zuotu1{
   position: relative;
-  top: -110px;
+  top: -130px;
   left: 500px;
 }
 .zuotu2{
   position: relative;
-  top: -110px;
+  top: -130px;
   left: 500px;
 }
 .zuotu3{
   position: relative;
-  top: -110px;
+  top: -130px;
   left: 500px;
 }
 .zuotu4{
   position: relative;
-  top: -110px;
+  top: -130px;
   left: 500px;
+}
+
+body{
+ font-family: "Hiragino Sans GB";
 }
