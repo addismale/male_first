@@ -1,6 +1,26 @@
 .header{
+  height:40px;
+  background-color: rgba(239,243,249,0.5);
+  border-bottom: 1px solid #E1E1E1;
+  margin: -7px 0 0 -7px;
+  line-height: 250%;
   font-family: "Lantinghei SC", "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif;
 }
 .guanzhuwomen{
   color:rgb(51,51,51);
+  font-size: 14px;
+  margin-left: 60px;
+  text-decoration: none;
+}
+.xinlangweibo{
+  color:rgb(51,51,51);
+  font-size: 14px;
+  margin-left: 5px;
+  text-decoration: none;
+}
+.guanzhuweixin{
+  color:rgb(51,51,51);
+  font-size: 14px;
+  margin-left: 5px;
+  text-decoration: none;
 }
