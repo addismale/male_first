@@ -1,26 +1,141 @@
 .header{
-  height:40px;
+  height:39px;
   background-color: rgba(239,243,249,0.5);
   border-bottom: 1px solid #E1E1E1;
   margin: -7px 0 0 -7px;
-  line-height: 250%;
+  line-height: 245%;
   font-family: "Lantinghei SC", "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif;
+
+}
+.header1{
+  width: 1200px;
+  height:38px;
 }
 .guanzhuwomen{
   color:rgb(51,51,51);
-  font-size: 14px;
-  margin-left: 60px;
+  font-size: 12px;
+  margin-left: 70px;
   text-decoration: none;
 }
 .xinlangweibo{
   color:rgb(51,51,51);
-  font-size: 14px;
+  font-size: 12px;
   margin-left: 5px;
   text-decoration: none;
 }
 .guanzhuweixin{
   color:rgb(51,51,51);
-  font-size: 14px;
+  font-size: 12px;
   margin-left: 5px;
   text-decoration: none;
+  margin-right: 650px;
+}
+.shoujidangke{
+  color:rgb(51,51,51);
+  font-size: 12px;
+  margin-left: 5px;
+  text-decoration: none;
+  margin-right: 40px;
+}
+.zhuce{
+  color:rgb(51,51,51);
+  font-size: 12px;
+  margin-left: 5px;
+  text-decoration: none;
+  height:40px;
+}
+.denglu{
+  color:rgb(51,51,51);
+  font-size: 12px;
+  margin-left: 5px;
+  text-decoration: none;
+}
+.weixindenglu{
+  color:rgb(51,51,51);
+  font-size: 12px;
+  margin-left: 5px;
+  text-decoration: none;
+}
+.weibodenglu{
+  color:rgb(51,51,51);
+  font-size: 12px;
+  margin-left: 5px;
+  text-decoration: none;
+}
+.qqdenglu{
+  color:rgb(51,51,51);
+  font-size: 12px;
+  margin-left: 5px;
+  text-decoration: none;
+}
+.navigation{
+  border-bottom: 1px solid #d9d9dd;
+  margin-bottom: 20px;
+}
+.navigation1{
+  width: 1190px;
+  height:80px;
+}
+.image1{
+  position: relative;
+  top: 12px;
+  left: 70px;
+}
+.image2{
+  position: relative;
+  top: 9px;
+  left: 68px;
+}
+.navigation2{
+  position: relative;
+  top: 20px;
+  font-size: 20px;
+}
+.shouye{
+  position: relative;
+  top: -40px;
+  left: 300px;
+  text-decoration: none;
+  color: #656e73;
+  padding-right: 50px;
+}
+.zixun{
+  position: relative;
+  top: -40px;
+  left: 288px;
+  text-decoration: none;
+  color: #656e73;
+  padding-right: 50px;
+}
+.jianding{
+  position: relative;
+  top: -40px;
+  left: 288px;
+  text-decoration: none;
+  color: #656e73;
+  padding-right: 50px;
+}
+.xieku{
+  position: relative;
+  top: -40px;
+  left: 288px;
+  text-decoration: none;
+  color: #656e73;
+  padding-right: 50px;
+}
+.shijianbiao{
+  position: relative;
+  top: -40px;
+  left: 288px;
+  text-decoration: none;
+  color: #656e73;
+  padding-right: 50px;
+}
+.luntan{
+  position: relative;
+  top: -40px;
+  left: 288px;
+  text-decoration: none;
+  color: #656e73;
+  padding-right: 50px;
 }
