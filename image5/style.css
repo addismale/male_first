@@ -174,6 +174,7 @@
   height: 400px;
   background-image: url(addis.jpg);
   margin-left: 30px;
+  font-family: "Lantinghei SC", "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif;
 }
 .zhanshi{
   width: 360px;
@@ -197,17 +198,174 @@
   text-decoration: none;
 }
 .sell-list{
-  height: 372px;
+  height: 365px;
   padding-top: 6px;
   overflow: hidden;
   position: relative;
   border-left: 1px solid #949CA8;
   border-right: 1px solid #949CA8;
 }
+.ul1{
+  list-style:none;
+  margin: -5px 0 0 0;
+}
 .li1{
-  height: 66px;
+    height: 70px;
     margin-bottom: 7px;
     padding-left: 15px;
     border-bottom: 1px dotted #E5E5E5;
     position: relative;
+    margin: 0 0 0 -35px;
+}
+.li1tu1{
+    position: relative;
+    left: -5px;
+    top: 5px;
+}
+.li1tu2{
+    position: relative;
+    left: -5px;
+    top: 5px;
+}
+
+.li1tu3{
+    position: relative;
+    left: -5px;
+    top: 5px;
+}
+
+.li1tu4{
+    position: relative;
+    left: -5px;
+    top: 5px;
+}
+
+.li1tu5{
+    position: relative;
+    left: -5px;
+    top: 5px;
+}
+.li2{
+  height: 70px;
+    margin-bottom: 7px;
+    padding-left: 15px;
+    border-bottom: 1px dotted #E5E5E5;
+    position: relative;
+    margin: 0 0 0 -35px;
+
+}
+.li3{
+  height: 70px;
+    margin-bottom: 7px;
+    padding-left: 15px;
+    border-bottom: 1px dotted #E5E5E5;
+    position: relative;
+    margin: 0 0 0 -35px;
+
+}
+.li4{
+    height: 70px;
+    margin-bottom: 7px;
+    padding-left: 15px;
+    border-bottom: 1px dotted #E5E5E5;
+    position: relative;
+    margin: 0 0 0 -35px;
+
+}
+.li5{
+    height: 70px;
+    margin-bottom: 7px;
+    padding-left: 15px;
+    border-bottom: 1px dotted #E5E5E5;
+    position: relative;
+    margin: 0 0 0 -35px;
+}
+.shijian1{
+    position: relative;
+    top: -68px;
+    left: 145px;
+    color: rgb(51, 51, 51);
+    font-size: 10px;
+    text-decoration: none;
+}
+.lianjie1{
+    font-size: 15px;
+    color: black;
+    position: relative;
+    top: -40px;
+    left: 70px;
+    text-decoration: none;
+}
+.shijian2{
+    position: relative;
+    top: -68px;
+    left: 145px;
+    color: rgb(51, 51, 51);
+    font-size: 10px;
+    text-decoration: none;
+}
+.lianjie2{
+    font-size: 15px;
+    color: black;
+    position: relative;
+    top: -40px;
+    left: 70px;
+    text-decoration: none;
+}
+.shijian3{
+    position: relative;
+    top: -68px;
+    left: 145px;
+    color: rgb(51, 51, 51);
+    font-size: 10px;
+    text-decoration: none;
+}
+.lianjie3{
+    font-size: 15px;
+    color: black;
+    position: relative;
+    top: -40px;
+    left: 70px;
+    text-decoration: none;
+}
+.shijian4{
+    position: relative;
+    top: -68px;
+    left: 145px;
+    color: rgb(51, 51, 51);
+    font-size: 10px;
+    text-decoration: none;
+}
+.lianjie4{
+    font-size: 15px;
+    color: black;
+    position: relative;
+    top: -40px;
+    left: 70px;
+    text-decoration: none;
+}
+.shijian5{
+    position: relative;
+    top: -68px;
+    left: 145px;
+    color: rgb(51, 51, 51);
+    font-size: 10px;
+    text-decoration: none;
+}
+.lianjie5{
+    font-size: 15px;
+    color: black;
+    position: relative;
+    top: -40px;
+    left: 70px;
+    text-decoration: none;
+}
+.xia{
+   background: url(xia.png);
+    width: 358px;
+    height: 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-indent: -999em;
 }
