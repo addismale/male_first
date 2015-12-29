@@ -361,11 +361,53 @@
     text-decoration: none;
 }
 .xia{
-   background: url(xia.png);
+    background: url(xia.png);
     width: 358px;
     height: 10px;
     position: absolute;
     bottom: 0;
     left: 0;
     text-indent: -999em;
+}
+
+.shenti{
+     width:1300px;
+     height:400px;
+}
+.saohuo{
+    height: 36px;
+    margin-bottom: 16px;
+    background-color: #eff3f6;
+    line-height: 38px;
+    padding-right: 10px;
+    position: relative;
+    width: 792px;
+    left: 29px;
+    top: 15px;
+}
+.saohuolink{
+    width: 150px;
+    height: 36px;
+    background: #00B2EE;
+}
+.link-a{
+    background-color: #00aaea;
+    font-size: 22px;
+    color: #fff;
+    text-decoration: none;
+    position:relative;
+    left: 28px;
+}
+.imageapp{
+    position:relative;
+    top:8px;
+}
+.appsaohuo{
+   position: relative;
+    top: -43px;
+    left: 700px;
+}
+.appa1{
+   color: #fbbb52;
+   text-decoration: none;
 }
