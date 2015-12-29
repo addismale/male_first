@@ -411,3 +411,30 @@
    color: #fbbb52;
    text-decoration: none;
 }
+.apptu1{
+    width: 400px;
+    height: 300px;
+    background-image: url(apptu01.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    top: -15px;
+}
+.apptu2{
+    width: 400px;
+    height: 300px;
+    background-image: url(apptu02.jpg);
+    position: absolute;
+    top: 63px;
+    left: 415px;
+    background-repeat: no-repeat;
+}
+.shenti2{
+    width: 360px;
+    height: 420px;
+    float: right;
+    position: relative;
+    top: -37px;
+    left: -75px;
+}
+
+
