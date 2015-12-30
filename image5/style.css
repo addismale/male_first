@@ -411,20 +411,18 @@
    color: #fbbb52;
    text-decoration: none;
 }
-.apptu1{
+.apptu01{
     width: 400px;
     height: 300px;
-    background-image: url(apptu01.jpg);
     background-repeat: no-repeat;
     position: relative;
     top: -15px;
 }
-.apptu2{
+.apptu02{
     width: 400px;
     height: 300px;
-    background-image: url(apptu02.jpg);
     position: absolute;
-    top: 63px;
+    top: 51px;
     left: 415px;
     background-repeat: no-repeat;
 }
@@ -436,5 +434,94 @@
     top: -37px;
     left: -75px;
 }
+.buttomxiamian{
+    width:1190px;
+}
+.newnv{
+    width: 825px;
+}
+.newul{
+    width: 780px;
+    height: 36px;
+    background-color: #eff3f6;
+    position: relative;
+    top: -10px;
+    left: 26px;
+    list-style: none;
+}
 
+.newula1{
+    width:110px;
+    float: left;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 38px;
+    height: 36px;
+    background-color: #00aaea;
+    color: #fff;
+    display: block;
+    position: relative;
+    text-align: center;
+    left: -40px;
+}
+.newula2{
+    float: left;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 38px;
+    display: block;
+    position: relative;
+    text-align: center;
+}
+.newula3{
+    float: left;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 38px;
+    display: block;
+    position: relative;
+    text-align: center;
+    left: 200px;
+}
+.newula4{
+    float: left;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 38px;
+    display: block;
+    position: relative;
+    text-align: center;
+    left: 300px;
+}
+.newula5{
+   float: left;
+   text-decoration: none;
+   font-size: 14px;
+   line-height: 38px;
+   display: block;
+    position: relative;
+    text-align: center;
+    left: 15px;
+}
+.newula6{
+    float: left;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 38px;
+    display: block;
+    position: relative;
+    text-align: center;
+    left: 380px;
+
+}
+.newula7{
+    float: left;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 38px;
+    display: block;
+    position: relative;
+    text-align: center;
+    left: 470px;
+}
 
