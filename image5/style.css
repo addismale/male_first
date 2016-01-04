@@ -540,14 +540,12 @@
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 10px;
 }
 .newbody2{
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-left: 45px;
    margin-top: 10px;
 }
@@ -555,7 +553,6 @@
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-left: 45px;
    margin-top: 10px;
 }
@@ -563,14 +560,12 @@
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
 }
 .newbody5{
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
    margin-left: 45px;
 }
@@ -578,7 +573,6 @@
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
    margin-left: 45px;
 }
@@ -586,14 +580,12 @@
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
 }
 .newbody8{
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
    margin-left: 45px;
 }
@@ -601,7 +593,6 @@
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
    margin-left: 45px;
 }
@@ -609,14 +600,12 @@
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
 }
 .newbody11{
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
    margin-left: 45px;
 }
@@ -624,7 +613,6 @@
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
    margin-left: 45px;
 }
@@ -632,14 +620,12 @@
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
 }
 .newbody14{
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
    margin-left: 45px;
 }
@@ -647,7 +633,6 @@
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
    margin-left: 45px;
 }
@@ -655,14 +640,12 @@
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
 }
 .newbody17{
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
    margin-left: 45px;
 }
@@ -670,7 +653,6 @@
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
    margin-left: 45px;
 }
@@ -678,14 +660,12 @@
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
 }
 .newbody20{
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
    margin-left: 45px;
 }
@@ -693,12 +673,55 @@
    float: left;
    width: 240px;
    height: 250px;
-   background: red;
    margin-top: 20px;
    margin-left: 45px;
 }
-
-
-
-
-
+.newa1{
+  position: relative;
+  top: 185px;
+  color:#262626;
+}
+.newa2{
+  position: relative;
+  top: 185px;
+  color:#262626;
+}
+.newa3{
+  position: relative;
+  top: 185px;
+  color:#262626;
+}
+.newa4{
+  position: relative;
+  top: 185px;
+  color:#262626;
+}
+.newa5{
+  position: relative;
+  top: 185px;
+  color:#262626;
+}
+.newa6{
+  position: relative;
+  top: 185px;
+  color:#262626;
+}
+.newa7{
+  position: relative;
+  top: 185px;
+  color:#262626;
+}
+.newa8{
+  position: relative;
+  top: 185px;
+  color:#262626;
+}
+.newa9{
+  position: relative;
+  top: 185px;
+  color:#262626;
+}
+.newa1{
+  position: relative;
+  top: 185px;
+}
