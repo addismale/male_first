@@ -1392,7 +1392,52 @@
   position: relative;
     top: 15px;
 }
-
-
-
-
+.shentiwenzi{
+    width: 360px;
+    height: 1700px;
+    position: relative;
+    top: 432px;
+    left: 862px;
+}
+.jiandingxie{
+    height: 38px;
+    background-color: #eff3f6;
+}
+.jiandingxie1{
+    height: 36px;
+    width: 120px;
+    text-align: center;
+    background-color: #00aaea;
+    font-size: 20px;
+    color: #fff;
+    line-height: 180%;
+}
+.jiandingxiea1{
+   position: absolute;
+    top: 2px;
+    left: 225px;
+    text-decoration: none;
+    color: black;
+}
+.jiandingli1{
+    width: 200px;
+    height: 30px;
+    position: relative;
+    left: -20px;
+}
+.daijianding1{
+   width: 50px;
+    height: 30px;
+    background: #FF6E00;
+    position: relative;
+    font-size: 12px;
+    top: 35px;
+    left: -45px;
+    font-size: 18px;
+}
+.addisa1{
+ text-decoration: none;
+ position: relative;
+    left: 20px;
+    color: black;
+}
