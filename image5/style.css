@@ -1147,7 +1147,252 @@
    text-decoration: none;
    color: black;
    font-size: 13px;
-    position: relative;
+   position: relative;
    left: 30px;
+}
+.remenpinpai{
+    width: 1200px;
+    height: 126px;
+    float: left;
+    position: relative;
+    left: 25px;
+}
+.remenpinpai1{
+    height: 38px;
+    background-color: #eff3f6;
+}
+.remenpinpai2{
+    height: 36px;
+    width: 120px;
+    border-bottom: none;
+    background-color: #00aaea;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    line-height: 180%;
+}
+.pinpaia{
+    position: relative;
+    top: -27px;
+    left: 1100px;
+    text-decoration: none;
+    color: black;
+}
+.pinpaiul{
+    border: 1px solid #e2e2e2;
+    border-right: 0;
+    width: 1193px;
+    height: 74px;
+}
+.pinli1{
+    float: left;
+    width: 80px;
+    height: 72px;
+    list-style: none;
+    border-right: #e2e2e2 1px solid;
+    position: relative;
+    left: -40px;
+    top: 1px;
+}
+.pinli2{
+    float: left;
+    width: 80px;
+    height: 72px;
+    list-style: none;
+    border-right: #e2e2e2 1px solid;
+    position: relative;
+    left: -40px;
+    top: 1px;
 
 }
+.pinli3{
+    float: left;
+    width: 80px;
+    height: 72px;
+    list-style: none;
+    border-right: #e2e2e2 1px solid;
+    position: relative;
+    left: -40px;
+    top: 1px;
+
+}
+.pinli4{
+    float: left;
+    width: 80px;
+    height: 72px;
+    list-style: none;
+    border-right: #e2e2e2 1px solid;
+    position: relative;
+    left: -40px;
+    top: 1px;
+
+}
+.pinli5{
+    float: left;
+    width: 80px;
+    height: 72px;
+    list-style: none;
+    border-right: #e2e2e2 1px solid;
+    position: relative;
+    left: -40px;
+    top: 1px;
+
+}
+.pinli6{
+    float: left;
+    width: 80px;
+    height: 72px;
+    list-style: none;
+    border-right: #e2e2e2 1px solid;
+    position: relative;
+    left: -40px;
+    top: 1px;
+
+}
+.pinli7{
+    float: left;
+    width: 80px;
+    height: 72px;
+    list-style: none;
+    border-right: #e2e2e2 1px solid;
+    position: relative;
+    left: -40px;
+    top: 1px;
+
+}
+.pinli8{
+    float: left;
+    width: 80px;
+    height: 72px;
+    list-style: none;
+    border-right: #e2e2e2 1px solid;
+    position: relative;
+    left: -40px;
+    top: 1px;
+
+}
+.pinli9{
+    float: left;
+    width: 80px;
+    height: 72px;
+    list-style: none;
+    border-right: #e2e2e2 1px solid;
+    position: relative;
+    left: -40px;
+    top: 1px;
+
+}
+.pinli10{
+    float: left;
+    width: 80px;
+    height: 72px;
+    list-style: none;
+    border-right: #e2e2e2 1px solid;
+    position: relative;
+    left: -40px;
+    top: 1px;
+
+}
+.pinli11{
+    float: left;
+    width: 80px;
+    height: 72px;
+    list-style: none;
+    border-right: #e2e2e2 1px solid;
+    position: relative;
+    left: -40px;
+    top: 1px;
+
+}
+.pinli12{
+    float: left;
+    width: 80px;
+    height: 72px;
+    list-style: none;
+    border-right: #e2e2e2 1px solid;
+    position: relative;
+    left: -40px;
+    top: 1px;
+
+}
+.pinli13{
+    float: left;
+    width: 80px;
+    height: 72px;
+    list-style: none;
+    border-right: #e2e2e2 1px solid;
+    position: relative;
+    left: -40px;
+    top: 1px;
+
+}
+.pinli14{
+    float: left;
+    width: 80px;
+    height: 72px;
+    list-style: none;
+    border-right: #e2e2e2 1px solid;
+    position: relative;
+    left: -40px;
+    top: 1px;
+}
+.zitu1{
+  position: relative;
+    top: 15px;
+}
+.zitu2{
+  position: relative;
+    top: 15px;
+}
+.zitu3{
+  position: relative;
+    top: 15px;
+}
+.zitu4{
+  position: relative;
+    top: 15px;
+}
+.zitu5{
+  position: relative;
+    top: 15px;
+}
+.zitu6{
+  position: relative;
+    top: 15px;
+}
+.zitu7{
+  position: relative;
+    top: 15px;
+}
+.zitu8{
+  position: relative;
+    top: 15px;
+}
+.zitu9{
+  position: relative;
+    top: 15px;
+}
+.zitu10{
+  position: relative;
+    top: 15px;
+}
+.zitu11{
+  position: relative;
+    top: 15px;
+}
+.zitu12{
+  position: relative;
+    top: 15px;
+}
+.zitu13{
+  position: relative;
+    top: 15px;
+}
+.zitu14{
+  position: relative;
+    top: 15px;
+}
+
+
+
+
